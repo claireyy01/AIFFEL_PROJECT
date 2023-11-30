@@ -5,4 +5,4 @@
    - square_area
   
 2. Project2
-   - Airbnb(New York City)
+   - Airbnb(New York City) _price prediction
