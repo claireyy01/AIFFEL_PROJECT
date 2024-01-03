@@ -6,4 +6,5 @@
 
 ## 파일 가이드
 - cats_dogs_classification.ipynb : 고양이와 강아지 분류기 모델 (학습)
--  : (프로젝트)
+- flowers (프로젝트)
+  - 최종 제출 파일 : flowers_classification_ver3.ipynb 
